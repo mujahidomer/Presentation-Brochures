@@ -47,6 +47,11 @@ This is a repository that showcases some of my work which didn't make it to the 
 
 ------------
 
+| HAJJ Service Posters  | India Fraternity Forum |
+| ------------- | ------------- |
+| ![](HAJJ/1.jpg)  | ![](HAJJ/3.jpg)  |
+| ![](HAJJ/%233.jpg)  | ![](HAJJ/%238.jpg)  |
+
 | Poster  | 
 | ------------- | 
 | ![](img/Kids%20Program%20%5BPoster%5D.jpg)  | 
